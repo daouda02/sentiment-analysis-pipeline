@@ -374,11 +374,11 @@ pylint src/
 
 ## Auteur
 Daouda Sow
-Projet DIT - Deep Learning 2 (Juillet 2026)
+Projet DIT Master - Deep Learning 2 (Juillet 2026)
 
 ---
 
-## License
+## Master
 
 DIT
 
