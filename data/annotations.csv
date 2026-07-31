@@ -1,0 +1,4 @@
+filename,sentiment,text
+positive.wav,POSITIVE,Je suis très satisfait de votre service. C'est excellent! J'ai apprécié votre professionnalisme et votre aide. Je recommande vivement.
+negative.wav,NEGATIVE,Je ne suis pas du tout content. Le service était horrible. J'ai attendu très longtemps et rien n'a été résolu. C'est inacceptable!
+neutral.wav,NEUTRAL,"Bonjour, je vous appelle pour connaître les horaires d'ouverture. Pouvez-vous me dire quand vous fermez? Je voudrais avoir cette information."

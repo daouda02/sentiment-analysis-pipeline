@@ -1,0 +1,22 @@
+# Audio processing
+librosa==0.10.0
+soundfile==0.12.1
+
+# Transformers & ML
+transformers==4.37.2
+torch>=2.2.0
+torchaudio>=2.2.0 
+
+# API
+fastapi==0.109.0
+uvicorn==0.27.0
+
+# UI
+gradio==4.18.0
+
+# Utils
+python-multipart==0.0.6
+numpy>=1.26.0
+
+# TTS (pour générer les fichiers de test)
+gTTS==2.4.0
